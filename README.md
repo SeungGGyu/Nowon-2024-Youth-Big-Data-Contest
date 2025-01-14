@@ -56,3 +56,5 @@
 3. [이승규](https://github.com/SeungGGyu) - 데이터 전처리, MCLP 모델링, 문제 제안
 
 ## 5. 증빙자료
+![image](https://github.com/user-attachments/assets/f3708368-6b76-4986-8b80-4b78aa88f6f1)
+
